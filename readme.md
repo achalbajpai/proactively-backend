@@ -128,6 +128,7 @@ Response: {
     "userId": "number"
 }
 ```
+![IMG_4329](https://github.com/user-attachments/assets/966f41c7-4962-4eaf-a9ae-c231356dd597)
 
 #### 2. OTP Verification
 
@@ -144,6 +145,7 @@ Response: {
     "message": "Email verified successfully"
 }
 ```
+![IMG_4330](https://github.com/user-attachments/assets/1c20d0b5-e153-4ed2-bbe3-c8cfb5514852)
 
 #### 3. Login
 
@@ -248,6 +250,7 @@ Response: {
     }
 }
 ```
+![IMG_4333](https://github.com/user-attachments/assets/96b9408a-9dd4-4507-992b-cfb9183118e5)
 
 ## Testing
 
@@ -267,3 +270,5 @@ ts-node src/testSpeaker.ts
 ts-node src/testBooking.ts
 ts-node src/testCalendarIntegration.ts
 ```
+
+![IMG_4332](https://github.com/user-attachments/assets/ca4d6213-f6e6-419d-a53e-450e1b81390e)
