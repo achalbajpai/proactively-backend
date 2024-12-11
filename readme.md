@@ -1,6 +1,18 @@
 # Speaker Session Booking Platform
 
-A platform allowing users to book speaker sessions from available speaker listings. Built with Express.js, TypeScript, and SQL.
+A platform allowing users to book speaker sessions from available speaker listings. Built with **Typescript**.
+
+
+<img width="1794" alt="Screenshot 2024-12-11 at 1 30 36 PM" src="https://github.com/user-attachments/assets/1138d7c4-5659-491e-af2f-d33ccf94b953">
+
+## Index
+
+1. [User and Speaker Profiles](#1-user-and-speaker-profiles-)
+2. [Speaker Listing and Expertise](#2-speaker-listing-and-expertise-)
+3. [Session Booking System](#3-session-booking-system-)
+4. [Time Slot Blocking](#4-time-slot-blocking-)
+5. [Notifications & Calendar](#5-notifications--calendar-)
+6. [Testing](#testing)
 
 ## Problem Statement Features Implementation
 
